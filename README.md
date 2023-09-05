@@ -8,3 +8,7 @@ php index.php
 ```
 
 Digitar o valor em minutos e pronto.
+
+## Alterações
+
+Se deseja mudar o nome do arquivo para por exemplo _cronometro.txt_ basta mudar a constante `FILENAME`.

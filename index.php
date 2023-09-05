@@ -1,7 +1,7 @@
 <?php
 
 class StopWatch {
-    CONST FILENAME = 'stopwatch.txt';
+    CONST FILENAME = 'cronometro.txt';
 
     public function initializeTime()
     {
